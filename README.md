@@ -1,1 +1,7 @@
-# ContaTerminal
+O projeto "ContaBanco" é um sistema simples em Java que permite aos usuários criar uma conta bancária fornecendo informações básicas, como número da agência, número da conta, nome do cliente e saldo. O programa interage com o usuário através do terminal, solicitando essas informações e exibindo uma mensagem de confirmação com os detalhes da conta fornecidos.
+
+O objetivo deste projeto é demonstrar conceitos básicos de entrada e saída de dados em Java, bem como práticas de manipulação de strings e criação de classes e objetos. Os usuários podem executar o programa no terminal para simular a criação de uma conta bancária fictícia e receber uma mensagem personalizada de confirmação.
+
+A estrutura do projeto inclui uma classe principal chamada `ContaTerminal`, que contém o método `main()` para iniciar a aplicação e interagir com o usuário. Além disso, são utilizadas as classes `Scanner` para capturar entrada do usuário e `String` para manipular e formatar mensagens de saída.
+
+Embora seja um projeto simples, ele serve como uma introdução valiosa para os fundamentos do desenvolvimento Java, incluindo declaração de variáveis, entrada e saída de dados, estrutura básica de classe e método, e manipulação de strings. Este projeto pode ser expandido e aprimorado posteriormente com recursos adicionais, como validação de entrada, armazenamento de informações em um banco de dados ou interface gráfica de usuário (GUI).
